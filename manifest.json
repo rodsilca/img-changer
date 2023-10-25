@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "minha extensão",
+    "version": "1.0.1",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "description": "minha primeira extensão",
+    "permissions":["activeTab", "scripting"]
+
+}
